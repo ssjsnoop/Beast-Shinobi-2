@@ -1,0 +1,2 @@
+# Known issues / verification limits
+No targeted automated checks are failing in the current Stormstep Awakening build. Browser CSS, physical phone/controller behavior, audible device playback/mixing and offline installation still need real-device verification. Some browsers require a click/tap before audio can start; the game provides an enable-sound button when blocked. Simulation completion does not establish human difficulty or hardware frame rate.
